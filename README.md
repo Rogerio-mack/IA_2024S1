@@ -4,6 +4,8 @@
 
 # Inteligência Artificial - 1o Semestre 2024 (7G)
 
+## https://github.com/Rogerio-mack/IA_2024S1
+
 rogerio.oliveira@mackenzie.br  
 
 <br>
