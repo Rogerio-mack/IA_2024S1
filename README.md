@@ -33,3 +33,5 @@ rogerio.oliveira@mackenzie.br
 **3** [**Python Pandas e Matplotlib**](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Python_2.ipynb)
 
 >> [Visualização de Dados em Python (eBook)](http://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html)
+
+>> [Aula 28.02](https://colab.research.google.com/drive/1TPTIB9nVqpfGMSxiYCiAuQqsk5Bp6xdu?usp=sharing)
