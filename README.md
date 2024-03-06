@@ -4,8 +4,6 @@
 
 # Inteligência Artificial - 1o Semestre 2024 (7G)
 
-## https://github.com/Rogerio-mack/IA_2024S1
-
 rogerio.oliveira@mackenzie.br  
 
 <br>
@@ -26,12 +24,14 @@ rogerio.oliveira@mackenzie.br
 
 **2** [**Python básico para o Aprendizado de Máquina**](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Python_1.ipynb) 
 
->> [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
+> [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
  |  [Python_Cheat_Sheet Notebook](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/Python_Cheat_Sheet.ipynb)
  |  [(Complementar) Exercícios Resolvidos](https://github.com/Rogerio-mack/Introducao_Python_I/blob/main/README.md)
 
 **3** [**Python Pandas e Matplotlib**](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Python_2.ipynb)
 
->> [Visualização de Dados em Python (eBook)](http://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html)
-
->> [Aula 28.02](https://colab.research.google.com/drive/1TPTIB9nVqpfGMSxiYCiAuQqsk5Bp6xdu?usp=sharing)
+> [Visualização de Dados em Python (eBook)](http://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html)
+>
+> [Aula 28.02 e 06.03, exemplos de uso do Pandas](https://colab.research.google.com/drive/1TPTIB9nVqpfGMSxiYCiAuQqsk5Bp6xdu?usp=sharing)
+>
+> [Ex_Pandas1](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/Ex_Pandas1.ipynb) *Questionário no Moodle*
