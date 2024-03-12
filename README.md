@@ -35,3 +35,8 @@ rogerio.oliveira@mackenzie.br
 > [Aula 28.02 e 06.03, exemplos de uso do Pandas](https://colab.research.google.com/drive/1TPTIB9nVqpfGMSxiYCiAuQqsk5Bp6xdu?usp=sharing)
 >
 > [Ex_Pandas1](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/Ex_Pandas1.ipynb) *Questionário no Moodle*
+
+**4** [**Aprendizado Supervisionado e Regressão Linear**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
+
+> [Lab Caso: **Estimando a emissão de gases CO2 de veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao_ex.ipynb) *Questionário no Moodle*
+> 
