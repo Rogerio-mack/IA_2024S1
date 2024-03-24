@@ -43,5 +43,5 @@ rogerio.oliveira@mackenzie.br
 
 **5** [**Classificação: Regressão Logística**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica.ipynb)
 
-> [Lab Caso: **Origem dos veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb) | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/ML3_RegressaoLogistica_ex_solucao.ipynb)*Questionário no Moodle*
+> [Lab Caso: **Origem dos veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb) | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/ML3_RegressaoLogistica_ex_solucao.ipynb) *Questionário no Moodle*
  
