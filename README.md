@@ -45,9 +45,9 @@ rogerio.oliveira@mackenzie.br
 
 > [Lab Caso: **Origem dos veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb) | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/ML3_RegressaoLogistica_ex_solucao.ipynb) *Questionário no Moodle*
 
-> [Aula 27.03]()
-
 **6** [**Métricas de Classificação e K-Vizinhos mais Próximos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
+
+> [Aula 27.03 *Hands-On* Regressão Logística e Métricas]()
 
 > [Lab Caso: **Seguros e Diagnóstico de Tumores**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb)
  
