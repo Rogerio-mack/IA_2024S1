@@ -47,7 +47,7 @@ rogerio.oliveira@mackenzie.br
 
 **6** [**Métricas de Classificação e K-Vizinhos mais Próximos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
 
-> [Aula 27.03 *Hands-On* Regressão Logística e Métricas]()
+> [Aula 27.03 *Hands-On* Regressão Logística e Métricas](https://colab.research.google.com/drive/1Q-fQSHwAe2Td4ukebcDx-7d4vQ_DkThg?usp=sharing)
 
 > [Lab Caso: **Seguros e Diagnóstico de Tumores**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb)
  
