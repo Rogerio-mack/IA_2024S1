@@ -51,4 +51,12 @@ rogerio.oliveira@mackenzie.br
 
 > [Lab Caso: **Seguros e Diagnóstico de Tumores**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/ACD_T7_Knn_solucao.ipynb) *Sem Questionário, apenas um exercício com a solução para praticar*
+
+**N1 Labs**
+
+> [N1 Lab A](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/AI_N1A_Lab_2024S1.ipynb) 
+
+> [N1 Lab B](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/AI_N1B_Lab_2024S1.ipynb)
+
+
  
