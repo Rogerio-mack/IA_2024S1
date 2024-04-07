@@ -50,4 +50,5 @@ rogerio.oliveira@mackenzie.br
 > [Aula 27.03 *Hands-On* Regressão Logística e Métricas](https://colab.research.google.com/drive/1Q-fQSHwAe2Td4ukebcDx-7d4vQ_DkThg?usp=sharing)
 
 > [Lab Caso: **Seguros e Diagnóstico de Tumores**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/ACD_T7_Knn_solucao.ipynb) *Sem Questionário, apenas um exercício com a solução para praticar*
  
