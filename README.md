@@ -54,9 +54,11 @@ rogerio.oliveira@mackenzie.br
 
 **N1 Labs**
 
-> [N1 Lab A, TIA PAR](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/AI_N1A_Lab_2024S1.ipynb) 
+> [N1 Lab A, TIA PAR](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/AI_N1A_Lab_2024S1.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/AI_N1A_Lab_2024S1_solucao.ipynb) 
 
 > [N1 Lab B, TIA ÍMPAR](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/AI_N1B_Lab_2024S1.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/AI_N1B_Lab_2024S1_solucao.ipynb) 
 
 
  
