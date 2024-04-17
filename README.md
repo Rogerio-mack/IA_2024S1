@@ -52,6 +52,10 @@ rogerio.oliveira@mackenzie.br
 > [Lab Caso: **Seguros e Diagnóstico de Tumores**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/ACD_T7_Knn_solucao.ipynb) *Sem Questionário, apenas um exercício com a solução para praticar*
 
+**7** [**Árvores de Decisão**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
+
+> [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb)
+
 **N1 Labs**
 
 > [N1 Lab A, TIA PAR](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/AI_N1A_Lab_2024S1.ipynb)
