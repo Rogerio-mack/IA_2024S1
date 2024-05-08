@@ -73,4 +73,8 @@ rogerio.oliveira@mackenzie.br
 
 > [Projeto Template](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/IA_2024S1_Projeto_Template.ipynb)
 
+**8** [Aprendizado não Supervisionado: Clustering, Kmédias e Cluster Hierárquico](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T6_Clustering.ipynb) 
+
+> [Lab Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb) (*Solução no Moodle*)
+
  
