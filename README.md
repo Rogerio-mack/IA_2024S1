@@ -75,6 +75,27 @@ rogerio.oliveira@mackenzie.br
 
 **8** [Aprendizado não Supervisionado: Clustering, Kmédias e Cluster Hierárquico](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T6_Clustering.ipynb) 
 
-> [Lab Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb)  
+> [Lab Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/ACD_T11_Kmedias_solucao.ipynb)
+| *Como caracterizar os grupos na clusterização?*
+
+> [Exemplo Kmeans + HCluster](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/T12_EXTRA_kmeans_e_hcluster.ipynb)
+
+> [Lab Revisão Métricas de Classificação, Knn e Logística](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/IA_revisao_Metricas_ex.ipynb) |
+[**Solução**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/IA_revisao_Metricas_ex.ipynb) | *Acuracidade, Precisão, Revocação (Recall), Erros Tipo I e II, Falso Positivos e Falso Negativos*
+
+**9** Redes Neurais
+
+> [Introdução aos Modelos Neurais](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
+
+> [MLP Modelo Multilayer Perceptron](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T2.ipynb)
+
+> [**exemplo iris** MLP scikit-learn](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/mlp_iris.ipynb)
+
+> [**MLP Exercício**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/mlp_penguins.ipynb)
+
+
+
+
 
  
